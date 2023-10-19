@@ -1,4 +1,4 @@
-class Program2 extends ConsoleProgram {
+class KmTOMiles1 extends ConsoleProgram {
 
   /**
   * Description
